@@ -38,7 +38,8 @@
     "wpackagist-plugin/advanced-custom-fields": "5.*",
     "phpunit/phpunit": "5.7.16|6.*",
     "wpackagist-plugin/co-authors-plus" : "3.2.*",
-    "johnpbloch/wordpress" : "4.*"
+    "johnpbloch/wordpress" : "4.*",
+    "squizlabs/php_codesniffer": "*"
   },
   "suggest" : {
     "satooshi/php-coveralls": "1.0.* for code coverage"
